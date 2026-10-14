@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Felix! 👋
 
-<!--
-**Felixgli/Felixgli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Information Technology student passionate about programming, problem-solving, and learning new technologies.
+
+## 🚀 Currently Learning
+- C++ Programming
+- Programming fundamentals
+- Git and GitHub
+- Software development
+
+## 💻 My Projects
+
+### Student Grade Calculator
+A C++ project designed to practise programming fundamentals and calculate student scores and averages.
+
+Check out my repositories to explore my projects and learning journey.
+
+## 🎯 My Goals
+- Improve my C++ programming skills.
+- Build practical software projects.
+- Develop a professional developer portfolio.
+- Collaborate with other learners and developers.
+
+## 🤝 Thanks for Visiting!
+I'm continuously learning and working to improve my technical skills.
+
+Feel free to explore my repositories!
